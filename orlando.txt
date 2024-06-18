@@ -1,3 +1,5 @@
+
+
 git config --global user.name "Carrion26"
 
 git config --global user.email "orlancarri2605@gmail.com"
@@ -11,4 +13,3 @@ git commit -m "estos son mis 20 proyectos "
 git push origin main
 
 
-:3
