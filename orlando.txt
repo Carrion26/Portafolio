@@ -1,1 +1,13 @@
-hola gente
+git config --global user.name "Carrion26"
+
+git config --global user.email "orlancarri2605@gmail.com"
+
+git clone
+
+git add PROYT
+
+git commit -m "estos son mis 20 proyectos "
+
+git push origin main
+
+
