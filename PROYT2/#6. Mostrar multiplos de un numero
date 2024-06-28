@@ -1,0 +1,8 @@
+#6. Mostrar multiplos de un numero.
+
+numero = int(input("Ingrese un número entero positivo: "))
+contador = 1
+
+while contador <= 10:
+    print(numero * contador)
+    contador += 1

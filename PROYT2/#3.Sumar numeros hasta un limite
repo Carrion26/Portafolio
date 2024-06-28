@@ -1,0 +1,10 @@
+#3.Sumar numeros hasta un limite
+
+limite=int(input("ingrese un limite: "))
+suma = 0
+
+while suma < limite:
+    numero= int(input("ingrese numero entero: "))
+    suma += numero
+    
+print(f"la suma total es {suma}")
